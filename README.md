@@ -6,6 +6,7 @@ June 22th 6:00 AEST - June 26th 6:00 AEST
 
 ### [Coffer Overflow 1(Pwn)](https://github.com/aroughneck-bko/ctf-writeups/tree/master/redpwnCTF2020/coffer-overflow-1)
 ### [Coffer Overflow 2(Pwn)](https://github.com/aroughneck-bko/ctf-writeups/tree/master/redpwnCTF2020/coffer-overflow-2)
+### [The library(Pwn)](https://github.com/aroughneck-bko/ctf-writeups/tree/master/redpwnCTF2020/the-library)
 
 ## Nahamcon CTF 2020
 June 12th 8:00 AM PDT - June 13th - 3:00 PM PDT  
