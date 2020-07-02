@@ -18,3 +18,4 @@ June 12th 8:00 AM PDT - June 13th - 3:00 PM PDT
 May 9th 10:01 AEST - May 11 09:59 AEST
 
 ### [Give Away 0 (Pwn)](https://github.com/aroughneck-bko/ctf-writeups/tree/master/sharkyCTF2020/give_away_0)
+### [Give Away 2 (Pwn)](https://github.com/aroughneck-bko/ctf-writeups/tree/master/sharkyCTF2020/give_away_2)
